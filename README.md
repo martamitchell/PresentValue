@@ -1,4 +1,4 @@
-Present Value Calculator is an application showcasing the use of slider controls and methods in C#. 
+Present Value Calculator is an application with basic slider controls, written in C#. 
 
 ![image](https://user-images.githubusercontent.com/46302098/194728066-451639e3-4e62-49ab-9c36-d981a0ff8b9d.png)
 
